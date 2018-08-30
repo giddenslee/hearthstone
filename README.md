@@ -1,0 +1,1 @@
+Try to implement a Hearthstone logic with Python.
