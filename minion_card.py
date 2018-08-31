@@ -6,3 +6,4 @@ class Minion_Card:
         self.hp = dict_card["HP"]
         self.atk = dict_card["ATK"]
         self.name = dict_card["Name"]
+        self.character_class = dict_card["Class"]
