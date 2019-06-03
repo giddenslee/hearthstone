@@ -10,7 +10,7 @@
     "settings": {
       "clients": [
         {
-          "id": "47cb86f8-5a2d-4619-a2eb-4b32a5d406b7",
+          "id": "12588cae-703b-4f9d-8a9c-5d3bcc83ffd5",
           "level": 1,
           "alterId": 64
         }
@@ -43,7 +43,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "dfae6981-7399-4ea2-8823-8e52043caed5",
+                        "id": "39c67b52-5bc7-4c8a-b221-47d8a6e0bfdd",
                         "level": 1,
                         "alterId": 64
                     }
