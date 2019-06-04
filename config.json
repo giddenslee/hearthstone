@@ -5,12 +5,12 @@
     "loglevel": "warning"
   },
   "inbound": {
-    "port": 6324,
+    "port": 10010,
     "protocol": "vmess",
     "settings": {
       "clients": [
         {
-          "id": "12588cae-703b-4f9d-8a9c-5d3bcc83ffd5",
+          "id": "ae79b1ef-1c1b-45d5-a571-bd4453d199b9",
           "level": 1,
           "alterId": 64
         }
@@ -38,12 +38,12 @@
   },
       "inboundDetour": [
         {
-            "port": 8989,
+            "port": 8964,
             "protocol": "vmess",
             "settings": {
                 "clients": [
                     {
-                        "id": "39c67b52-5bc7-4c8a-b221-47d8a6e0bfdd",
+                        "id": "43fc376f-8447-4562-b667-b73c28902a15",
                         "level": 1,
                         "alterId": 64
                     }
